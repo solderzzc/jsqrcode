@@ -9,23 +9,23 @@ Usage:
 
 Include the scripts in the following order:
 
-<script type="text/javascript" src="grid.js"></script>
-<script type="text/javascript" src="version.js"></script>
-<script type="text/javascript" src="detector.js"></script>
-<script type="text/javascript" src="formatinf.js"></script>
-<script type="text/javascript" src="errorlevel.js"></script>
-<script type="text/javascript" src="bitmat.js"></script>
-<script type="text/javascript" src="datablock.js"></script>
-<script type="text/javascript" src="bmparser.js"></script>
-<script type="text/javascript" src="datamask.js"></script>
-<script type="text/javascript" src="rsdecoder.js"></script>
-<script type="text/javascript" src="gf256poly.js"></script>
-<script type="text/javascript" src="gf256.js"></script>
-<script type="text/javascript" src="decoder.js"></script>
-<script type="text/javascript" src="qrcode.js"></script>
-<script type="text/javascript" src="findpat.js"></script>
-<script type="text/javascript" src="alignpat.js"></script>
-<script type="text/javascript" src="databr.js"></script>
+<script type="text/javascript" src="01_grid.js"></script>
+<script type="text/javascript" src="02_version.js"></script>
+<script type="text/javascript" src="03_detector.js"></script>
+<script type="text/javascript" src="04_formatinf.js"></script>
+<script type="text/javascript" src="05_errorlevel.js"></script>
+<script type="text/javascript" src="06_bitmat.js"></script>
+<script type="text/javascript" src="07_datablock.js"></script>
+<script type="text/javascript" src="08_bmparser.js"></script>
+<script type="text/javascript" src="09_datamask.js"></script>
+<script type="text/javascript" src="10_rsdecoder.js"></script>
+<script type="text/javascript" src="11_gf256poly.js"></script>
+<script type="text/javascript" src="12_gf256.js"></script>
+<script type="text/javascript" src="13_decoder.js"></script>
+<script type="text/javascript" src="14_qrcode.js"></script>
+<script type="text/javascript" src="15_findpat.js"></script>
+<script type="text/javascript" src="16_alignpat.js"></script>
+<script type="text/javascript" src="17_databr.js"></script>
 
 Set qrcode.callback to function "func(data)", where data will get the decoded information.
 
